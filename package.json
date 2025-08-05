@@ -1,0 +1,13 @@
+{
+  "name": "karthik-homes-website",
+  "version": "1.0.0",
+  "description": "Karthik Homes Pvt Ltd - Premium Home Sales Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["real-estate", "homes", "property", "e-commerce"],
+  "author": "Karthik Homes Pvt Ltd",
+  "license": "ISC"
+}
